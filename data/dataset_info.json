@@ -5,8 +5,7 @@
     "columns": {
     "messages": "conversations",
     "role": "from",
-    "content": "value",
-    "system": "system"
+    "content": "value"
   }
   },
   "test_llama_factory_train_data": {

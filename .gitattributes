@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+dat/train_data_for_Qwen.json filter=lfs diff=lfs merge=lfs -text
+data/train_data_for_Qwen.json filter=lfs diff=lfs merge=lfs -text

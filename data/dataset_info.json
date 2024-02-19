@@ -1,4 +1,13 @@
 {
+  "train_data_for_Qwen": {
+    "file_name": "train_data_for_Qwen.json",
+    "formatting": "sharegpt",
+    "columns": {
+    "messages": "conversations",
+    "role": "from",
+    "content": "value"
+  }
+  },
   "test_llama_factory_train_data": {
     "file_name": "llama_factory_train_data.json",
     "formatting": "sharegpt",
